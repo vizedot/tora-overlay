@@ -30,7 +30,9 @@
 }
 
 .ds4 .button {
-	position: absolute;
-	background: url(https://vizedot.github.io/tora-overlay/skins/face.svgz);
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(https://vizedot.github.io/tora-overlay/skins/face.svgz);
 }
 
