@@ -29,10 +29,41 @@
     background: url(https://vizedot.github.io/tora-overlay/skins/sticks-custom.png);
 }
 
-.ds4 .button {
+.ds4.button {
     position: absolute;
     width: 55px;
     height: 55px;
     background: url(https://vizedot.github.io/tora-overlay/skins/face.svgz);
+}
+
+.ds4.disconnected {
+    background: url(ps4-assets/disconnected.svgz);
+}
+
+.ds4 .a {
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.ds4 .b {
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.ds4 .x {
+    background-position: -113px 0;
+    top: 58px;
+}
+
+.ds4 .y {
+    background-position: 55px 0;
+    left: 58px;
+}
+
+.ds4 .button.pressed {
+    background-position-y: 55px;
+    /* margin-top: 5px; */
 }
 
