@@ -30,10 +30,7 @@
 }
 
 .ds4 .button {
-    position: absolute;
-    width: 55px;
-    height: 55px;
-    background: url(https://vizedot.github.io/tora-overlay/skins/face-custom.png);
+    background-image: url(https://vizedot.github.io/tora-overlay/skins/face-custom.png) !important;
 }
 
 .ds4.disconnected {
