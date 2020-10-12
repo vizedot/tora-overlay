@@ -29,7 +29,7 @@
     background: url(https://vizedot.github.io/tora-overlay/skins/sticks-custom.png);
 }
 
-.ds4.button {
+.ds4 .button {
     position: absolute;
     width: 55px;
     height: 55px;
