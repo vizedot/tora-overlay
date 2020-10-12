@@ -29,3 +29,8 @@
     background: url(https://vizedot.github.io/tora-overlay/skins/sticks-custom.png);
 }
 
+.edit .face .axby {
+	position: absolute;
+	background: url(https://vizedot.github.io/tora-overlay/skins/face.svgz);
+}
+
