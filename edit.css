@@ -33,7 +33,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://vizedot.github.io/tora-overlay/skins/face.svgz);
+    background: url(https://vizedot.github.io/tora-overlay/skins/face-custom.png);
 }
 
 .ds4.disconnected {
