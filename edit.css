@@ -41,27 +41,23 @@
 }
 
 .ds4 .a {
-	display: none;
     background-position: 0 0;
     bottom: 0;
     left: 58px;
 }
 
 .ds4 .b {
-	display: none;
     background-position: -57px 0;
     top: 58px;
     right: 0px;
 }
 
 .ds4 .x {
-	display: none;
     background-position: -113px 0;
     top: 58px;
 }
 
 .ds4 .y {
-	display: none;
     background-position: 55px 0;
     left: 58px;
 }
